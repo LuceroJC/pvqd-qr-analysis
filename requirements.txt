@@ -1,0 +1,14 @@
+# Core scientific Python (all scripts)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+scikit-learn>=1.3
+
+# QR analysis (qr_analysis.py)
+seaborn>=0.12
+statsmodels>=0.14
+
+# Acoustic parameter extraction (extract_pvqd_params.py only)
+# Parselmouth embeds Praat 6.1.38
+praat-parselmouth>=0.4.3
